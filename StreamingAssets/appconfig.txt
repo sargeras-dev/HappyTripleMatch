@@ -1,0 +1,10 @@
+### 游戏配置（toml，不可热更，可热更部分位于appconfighot.txt）###
+
+# 客户端版本号
+AppVersion = "1.2.0"
+
+# 资源热更网址（后面会根据手机平台再添加android/ios）
+ResUpdateAddr = "http://www.dvcctest.com/happytriplematch/hotupdate/android"
+
+# 应用更新网址
+AppUpdateAddr = ""

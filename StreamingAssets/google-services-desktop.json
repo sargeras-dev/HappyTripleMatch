@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985000912227",
+    "project_id": "happytriplematch-f1758",
+    "storage_bucket": "happytriplematch-f1758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985000912227:android:01da7ae7f5bff41619df56",
+        "android_client_info": {
+          "package_name": "com.HappyStudio.HappyTripleMatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKiHsY4M-51dXeSfsfwnEXx1VgTUvz8YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
